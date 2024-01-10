@@ -1,4 +1,4 @@
-# 2ND FILE FOR DEFINING THE USES OF KEYS IN TETRIS
+# 2ND FILE FOR DEFINING THE USES OF KEYS IN TETRIS , please run the main2 file for running the code .
 from project_main import *
 while not work_done:
     if game.figure is None:
