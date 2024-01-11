@@ -22,7 +22,7 @@ Game Controls
 ## Gameplay
 
 The objective of the game is to complete horizontal lines by filling them with Tetris pieces. When a line is completed, it disappears, and you earn points. The game ends if the Tetris pieces reach the top of the screen.
-Code Structure
+### Code Structure
 
   - project_main.py: This file contains the main logic for the Tetris game. It defines the Figure and Tetris classes responsible for creating and managing Tetris pieces and the game board.
   - project_main2.py: This file handles user input and game events. It listens for key presses and updates the game state accordingly.
