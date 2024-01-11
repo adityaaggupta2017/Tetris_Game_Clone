@@ -1,3 +1,4 @@
+#Run this file
 import pygame
 import random
 colors = [
